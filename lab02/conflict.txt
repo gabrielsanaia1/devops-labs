@@ -1,1 +1,1 @@
-Deployment strategy: manual
+Deployment strategy: automatic with manual approval
