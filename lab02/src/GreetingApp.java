@@ -11,6 +11,6 @@ public class GreetingApp {
 
         String greeting = config.getProperty("greeting", "Hello");
         String target = config.getProperty("target", "DevOps");
-        System.out.println(greeting + ", " + target + "!");
+        System.out.println(greeting + ", " + target + "! Welcome to Lab02.");
     }
 }
