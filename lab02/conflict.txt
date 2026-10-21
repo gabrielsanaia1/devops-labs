@@ -1,1 +1,1 @@
-Deployment strategy: undecided
+Deployment strategy: automatic
