@@ -1,0 +1,15 @@
+# Java / Maven
+*.class
+*.log
+*.jar
+*.war
+*.ear
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS / local
+.DS_Store
+.env
